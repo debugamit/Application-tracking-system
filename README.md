@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 ## Author
-- **Your Name**: [Your LinkedIn](https://www.linkedin.com/) | [Your Portfolio](https://your-portfolio.com)
+- **Your Name**: [Your LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/amit-kumar-rout-495787333/)) | [Your Portfolio](https://your-portfolio.com)
 
 ---
 
