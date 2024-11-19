@@ -1,8 +1,4 @@
-# Application tracking system 
- ATS system using google gemini pro vision 
- Here’s a well-organized `README.md` file for your **Project Application Tracking System (ATS)**:
 
----
 
 # ATS Resume Expert - Project Application Tracking System
 
